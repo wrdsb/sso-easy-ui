@@ -8,8 +8,9 @@ This allows us to track UI changes within the application, from verson to versio
 2. Right click => Save Page As...
 3. Change filename to Single_Sign_On.html
 4. Keep default option of "Web Page, complete".
-5. Save
-6. Copy saved files over top of files in repo. Commit.
+5. Save.
+6. Take a screenshot and save as screenshot.png
+7. Copy saved files over top of files in repo. Commit.
 
 # Tracking Changes
-Simply view the diff for any two commits to see what user-facing changes have been made in the application.
+Simply view the diff for any two commits to see what user-facing changes have been made in the application. The file screenshot.png will be overwritten with each commit (because it cannot be diff'ed). Browse previous versions to see changes visually as they appear in the user's browser.
