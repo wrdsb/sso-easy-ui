@@ -13,4 +13,4 @@ This allows us to track UI changes within the application, from verson to versio
 7. Copy saved files over top of files in repo. Commit.
 
 # Tracking Changes
-Simply view the diff for any two commits to see what user-facing changes have been made in the application. The file screenshot.png will be overwritten with each commit (because it cannot be diff'ed. Browse previous versions to see changes visually as they appear in the user's browser.
+Simply view the diff for any two commits to see what user-facing changes have been made in the application. The file screenshot.png will be overwritten with each commit (because it cannot be diff'ed). Browse previous versions to see changes visually as they appear in the user's browser.
